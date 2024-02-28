@@ -82,7 +82,7 @@ ul {
   color: #e86276;
 }
 .grey-text {
-  color: gray;
+  color: rgb(101, 101, 101);
 }
 .container {
   margin-top: 0px;
@@ -98,7 +98,7 @@ ul {
 }
 
 .sectiontitle {
-  color: gray;
+  color: rgb(101, 101, 101);
   text-align: center;
   margin-top: 30px;
   margin-bottom: 30px;
