@@ -22,7 +22,7 @@ nav {
   min-height: 50px;
 }
 a {
-  padding: 20px;
+  padding: 0px;
   text-decoration: none;
   font-size: 25px;
   color: #e79096;
@@ -156,6 +156,10 @@ footer {
   }
 }
 @media (max-width: 768px) {
+  .background-pink{
+    background-color: #d6cdbe;
+    background-image: none;
+  }
   .flex-head,
   .cards {
     flex-direction: column;
